@@ -1,0 +1,13 @@
+p {
+  padding-bottom: 10vh;
+  padding-top: 1vh;
+  padding-left: 1vh;
+}
+.linea1 {
+  background-color: rgb(225, 155, 0);
+}
+
+.linea2{
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+}
